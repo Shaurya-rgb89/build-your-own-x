@@ -29,6 +29,7 @@
 
 * [**C++**: *Introduction to Ray Tracing: a Simple Method for Creating 3D Images*](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki)
+* [**C++**: *Raycasting engine of Wolfenstein 3D*](http://lodev.org/cgtutor/raycasting.html)
 * [**C# / TypeScript / JavaScript**: *Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript*](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
 * [**Java / JavaScript**: *Build your own 3D renderer*](https://avik-das.github.io/build-your-own-raytracer/)
 * [**Java**: *How to create your own simple 3D render engine in pure Java*](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
@@ -41,13 +42,14 @@
 * [**Haskell**: *A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based public distributed ledger*](https://github.com/adjoint-io/nanocoin)
 * [**Java**: *Creating Your First Blockchain with Java*](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 * [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin)
-* [**JavaScript**: *Build your own Blockchain in Javascript*](https://github.com/nambrot/blockchain-in-js)
-* [**JavaScript**: *Learn & Build a Javascript Blockchain*](https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
-* [**JavaScript**: *Creating a blockchain with Javascript*](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4) [video]
+* [**JavaScript**: *Build your own Blockchain in JavaScript*](https://github.com/nambrot/blockchain-in-js)
+* [**JavaScript**: *Learn & Build a JavaScript Blockchain*](https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
+* [**JavaScript**: *Creating a blockchain with JavaScript*](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4) [video]
 * [**JavaScript**: *How To Launch Your Own Production-Ready Cryptocurrency*](https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371)
 * [**Python**: *Learn Blockchains by Building One*](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [**Python**: *Build your own blockchain: a Python tutorial*](http://ecomunsing.com/build-your-own-blockchain)
 * [**Python**: *Building an automated Cryptocurrency trading bot with Python on Binance*](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-2Qq6GFW-knNyAR9PcOwPw) [video]
+* [**Ruby**: *Programming Blockchains Step-by-Step (Manuscripts Book Edition)*](https://github.com/yukimotopress/programming-blockchains-step-by-step)
 * [**TypeScript**: *Naivecoin: a tutorial for building a cryptocurrency*](https://lhartikk.github.io/)
 
 #### Build your own `Bot`
@@ -62,7 +64,7 @@
 * [**Python**: *Step-by-Step Instructions for Building a Basic Facebook Chat Bot*](https://blog.hartleybrody.com/fb-messenger-bot/)
 * [**Python**: *How to Build Your First Slack Bot with Python*](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 * [**Python**: *Build a Reddit Bot*](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
-* [**Python**: *How To Make A reddit Bot*](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
+* [**Python**: *How To Make A Reddit Bot*](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
 * [**Python**: *How To Create a Telegram Bot Using Python*](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
 * [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * [**Python**: *Creating Reddit Bot with Python & PRAW*](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
@@ -75,7 +77,7 @@
 * [**C++**: *Implementing a Key-Value Store*](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [**C#**: *Build Your Own Database*](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
 * [**Clojure**: *An Archaeology-Inspired Database*](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
-* [**Crystal**: *Why you should build you own NoSQL Database*](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
+* [**Crystal**: *Why you should build your own NoSQL Database*](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
 * [**JavaScript**: *Dagoba: an in-memory graph database*](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 * [**Python**: *DBDB: Dog Bed Database*](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 
@@ -92,7 +94,7 @@
 * [**C++**: *Emulation tutorial (CHIP-8 interpreter)*](http://www.codeslinger.co.uk/pages/projects/chip8.html)
 * [**C++**: *Emulation tutorial (GameBoy emulator)*](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
 * [**C++**: *Emulation tutorial (Master System emulator)*](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
-* [**Javascript**: *GameBoy Emulation in JavaScript*](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
+* [**JavaScript**: *GameBoy Emulation in JavaScript*](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
 * [**Python**: *Emulation Basics: Write your own Chip 8 Emulator/Interpreter*](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
 
 #### Build your own `Front-end Framework / Library`
@@ -155,8 +157,8 @@
 * [**Go**: *How to build a simple artificial neural network with Go*](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
 * [**Go**: *Building a Neural Net from Scratch in Go*](https://www.datadan.io/building-a-neural-net-from-scratch-in-go/)
 * [**Java**: *Neural Networks: Perceptron*](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be) [video]
-* [**JavaScript**: *Neural Network implementation in Javascript, by an example*](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
-* [**JavaScript**: *Neural networks from scratch for Javascript linguists (Part1 — The Perceptron)*](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
+* [**JavaScript**: *Neural Network implementation in JavaScript, by an example*](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
+* [**JavaScript**: *Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)*](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
 * [**JavaScript**: *You can build a neural network in JavaScript even if you don’t really understand neural networks*](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3)
 * [**JavaScript**: *How to create a Neural Network in JavaScript in only 30 lines of code*](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49)
 * [**Python**: *Optical Character Recognition (OCR)*](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
@@ -241,12 +243,20 @@
 * [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
 * [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
 * [**JavaScript**: *Learn JavaScript Promises by Building a Promise from Scratch*](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
+* [**JavaScript**: *Implementing promises from scratch (TDD way)*](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
+* [**Nim**: *Writing a DMIDecode Parser*](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
+* [**Nim**: *Writing a Bencode Parser*](https://xmonader.github.io/nimdays/day2_bencode.html#cid4)
+* [**Nim**: *Writing a INI Parser*](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
+* [**Nim**: *Writing a Link Checker*](https://xmonader.github.io/nimdays/day4_asynclinkschecker.html#cid10)
+* [**Nim**: *Writing a stow alternative to manage dotfiles*](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
+* [**Nim**: *Writing a URL Shortening Service*](https://xmonader.github.io/nimdays/day7_shorturl.html#cid20)
 * [**Python**: *How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes*](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
 * [**Python**: *Continuous Integration System*](http://aosabook.org/en/500L/a-continuous-integration-system.html)
 * [**Python**: *Building a Facial Recognition Pipeline with Deep Learning in Tensorflow*](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 * [**Python**: *Recommender Systems in Python: Beginner Tutorial*](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 * [**Python**: *Write SMS-spam detector with Scikit-learn*](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
 * [**Ruby**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
+* [**Ruby**: *Writing a CI Server*](https://developer.github.com/v3/guides/building-a-ci-server/)
 * [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 
