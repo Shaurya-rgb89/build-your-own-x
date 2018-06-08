@@ -131,6 +131,7 @@
 * [**JavaScript**: _Building React From Scratch_](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
 * [**JavaScript**: _Building Your Own React Clone in Five Easy Steps_](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/)
 * [**JavaScript**: _Gooact: React in 160 lines of JavaScript_](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
+* [**JavaScript**: _React Internals_](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 * [**JavaScript**: _Build your own Vuejs_](https://github.com/jsrebuild/build-your-own-vuejs)
 * [**JavaScript**: _Build Yourself a Redux_](https://zapier.com/engineering/how-to-build-redux/)
 * [**JavaScript**: _Let’s Write Redux!_](https://www.jamasoftware.com/blog/lets-write-redux/)
@@ -211,6 +212,7 @@
 * [**C**: _How to create an OS from scratch_](https://github.com/cfenollosa/os-tutorial)
 * [**C**: _Malloc tutorial_](https://danluu.com/malloc-tutorial/)
 * [**C**: _Hack the virtual memory_](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
+* [**C**: _Learning operating system development using Linux kernel and Raspberry Pi_](https://github.com/s-matyukevich/raspberry-pi-os)
 * [**C++**: _Write your own Operating System_](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M) [video]
 * [**C++**: _Writing a Bootloader_](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/first-edition/)
@@ -242,6 +244,8 @@
 * [**Go**: _Lexical Scanning in Go_](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
 * [**Haskell**: _Let's Build a Compiler_](http://alephnullplex.github.io/cradle/)
 * [**Haskell**: _Write You a Haskell_](http://dev.stephendiehl.com/fun/)
+* [**Haskell**: _Write Yourself a Scheme in 48 Hours_](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+* [**Haskell**: _Write You A Scheme_](https://www.wespiser.com/writings/wyas/home.html)
 * [**Java**: _Crafting interpreters: A handbook for making programming languages_](http://www.craftinginterpreters.com/)
 * [**JavaScript**: _The Super Tiny Compiler_](https://github.com/jamiebuilds/the-super-tiny-compiler)
 * [**JavaScript**: _The Super Tiny Interpreter_](https://github.com/keyanzhang/the-super-tiny-interpreter)
