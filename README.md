@@ -155,6 +155,7 @@
 * [**C**: _Tutorial For a Brickout Clone_](https://dashgl.com/)
 * [**C**: _A tutorials for a basic Invaders game made in C with GTK: and OpenGL_](https://dashgl.com/Invaders/)
 * [**C**: _Astroids Tutorial written in C using GTK with OpenGL and DashGL for matrix manipulation_](https://dashgl.com/Astroids/)
+* [**C**: _On Tetris and Reimplementation_](https://brennan.io/2015/06/12/tetris-reimplementation/)
 * [**C++**: _How To Make Minecraft in C++/ OpenGL_](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) [video]
 * [**C++**: _Breakout_](https://learnopengl.com/In-Practice/2D-Game/Breakout)
 * [**C++**: _Beginning Game Programming v2.0_](http://lazyfoo.net/tutorials/SDL/)
@@ -288,6 +289,7 @@
 * [**C**: _Let's build a shell!_](https://github.com/kamalmarhubi/shell-workshop)
 * [**C**: _Writing a UNIX Shell_](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 * [**C**: _Build Your Own Shell_](https://github.com/tokenrove/build-your-own-shell)
+* [**C**: _Writing a shell in C_](https://prakashdanish.github.io/2018/01/15/write-a-shell.html)
 * [**Ruby**: _A Unix Shell in Ruby_](https://www.jstorimer.com/blogs/workingwithcode/7766107-a-unix-shell-in-ruby)
 
 #### Build your own `Template Engine`
@@ -336,15 +338,19 @@
 * [**C**: _Learn how to write a hash table in C_](https://github.com/jamesroutley/write-a-hash-table)
 * [**C**: _Writing an SVG Library_](http://www.code-in-c.com/writing-svg-library-c/)
 * [**C**: _The very basics of a terminal emulator_](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
+* [**C**: _Write a System Call_](https://brennan.io/2016/11/14/kernel-dev-ep3/)
+* [**C**: _Implementing a virtual machine in C_](https://felixangell.com/blog/implementing-a-virtual-machine-in-c/)
 * [**C++**: _Build your own VR headset for $100_](https://github.com/relativty/Relativ)
 * [**C++**: _How X Window Managers work and how to write one_](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
 * [**C++**: _Writing a Linux Debugger_](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: _How a 64k intro is made_](http://www.lofibucket.com/articles/64k_intro.html)
 * [**C#**: _C# Networking: Create a TCP chater server, TCP games, UDP Pong and more_](https://16bpp.net/tutorials/csharp-networking)
+* [**Clojure**: _Building a spell-checker_](https://bernhardwenzel.com/articles/clojure-spellchecker/)
 * [**Java**: _How to Build an Android Reddit App_](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y) [video]
 * [**JavaScript**: _Build Your Own Module Bundler - Minipack_](https://github.com/ronami/minipack)
 * [**JavaScript**: _Learn JavaScript Promises by Building a Promise from Scratch_](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
 * [**JavaScript**: _Implementing promises from scratch (TDD way)_](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
+* [**JavaScript**: _Implement your own — call(), apply() and bind() method in JavaScript_](https://blog.usejournal.com/implement-your-own-call-apply-and-bind-method-in-javascript-42cc85dba1b)
 * [**Kotlin**: _Build Your Own Cache_](http://kezhenxu94.me/2018/05/27/Build-Your-Own-Cache/)
 * [**Nim**: _Writing a DMIDecode Parser_](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
 * [**Nim**: _Writing a INI Parser_](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
